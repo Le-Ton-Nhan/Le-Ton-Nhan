@@ -21,7 +21,7 @@
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/50/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-duo-tal-revivo.png"/>
-<img src="https://img.icons8.com/color/344/html-5--v1.png"/>
+<img height="20" src="https://img.icons8.com/color/344/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/344/css3.png"/>
 <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/>
 <img src="https://www.php.net//images/logos/new-php-logo.svg"/>
