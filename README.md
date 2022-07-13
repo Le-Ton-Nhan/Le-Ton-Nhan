@@ -1,4 +1,4 @@
-## Hi, I'm Nhan Le Ton 👀.
+## Hi, I'm Nhan Le Ton 👀
 
 - 👨🏽‍💻 I’m currently learning Information Security at University Of Information Technology.
 ### Hobbies: 
